@@ -4,7 +4,7 @@ This project attempts to use a time-series LSTM to predict made/missed freethrow
 # The Actual Model
 This repository only contains the dataset, the link to the the model can be found here:  
 
-[shotLSTM.ipynb](https://colab.research.google.com/drive/1jwINMrLyAQtpnAfK4jA9I74QyWx9z14r)
+[shotAIDemo.ipynb](https://colab.research.google.com/drive/1A43041bWSZ-zGu6ITkl6fA8uN0lpakt8?usp=sharing)
 
 # Using this model with your own data
 If you want to generate your own data, you can run OpenPose fairly quickly using Google Colab's free GPU.  
